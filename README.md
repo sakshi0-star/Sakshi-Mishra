@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakshi0-star
+- 👋 Hi, I’m @Sakshi Mishra
 - 👀 I’m interested in ...Coding 
 - 🌱 I’m currently learning ...Artificial Intelligence And Machine Learning
 - 💞️ I’m looking to collaborate on ...
